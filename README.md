@@ -1,2 +1,3 @@
 # static-website-html-css
-A static website built using HTML, CSS to be hosted on Amazon S3 bucket.
+A static website built using HTML, CSS as a business website template.
+This can be hosted on an S3 bucket or an ec2 web server.
